@@ -1,0 +1,6 @@
+resources:
+- 1-rabbitmq.yaml
+- 2-weaviate.yaml
+- 3-influxdb.yaml
+- 4-grafana.yaml
+- 5-loki.yaml
